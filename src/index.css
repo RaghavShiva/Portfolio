@@ -127,3 +127,22 @@ a{
 .skills .items .item img{
   width: 70px;
 }
+
+/* projects*/
+.projects .row .img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.projects .row .card{
+  width: 18rem;
+  border: 1px solid yellow;
+  box-shadow: var(--box-shadow);
+}
+.projects .row .img img{
+  width:250px;
+  height:200px;
+  border:2px solid yellow;
+  border-radius: 10px;
+
+}
