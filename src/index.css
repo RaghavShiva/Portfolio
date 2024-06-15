@@ -61,16 +61,16 @@ a{
 @keyframes home_ani{
   0%{
     border-color: blue;
+    transform: translate(0,0px);
     box-shadow: 10px 10px 100px 50px blue;
   }
   25%{
-    border-color: rgb(239,244,11);
-    transform: translate(0,0px);
+    border-color: rgb(239,244,11); 
     box-shadow: 10px 10px 100px 50px rgb(239,244,11);
   }
   50%{
     border-color: rgb(12,12,199);
-    transform: translate(0,10px);
+    transform: translate(0,20px);
     box-shadow: 10px 10px 100px 50px rgb(12,12,199);
   }
   75%{
@@ -79,7 +79,26 @@ a{
   }
   100%{
     border-color: rgb(50,55,205);
-    transform: translate(0,-0px);
+    transform: translate(0,0px);
     box-shadow: 10px 10px 100px 50px rgb(50,55,205);
   }
+}
+
+/*experience*/
+
+.exp-items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bgcol);
+  margin: 20px;
+  padding: 20px;
+  width: 800px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  box-shadow: var(--box-shadow);
+}
+.exp{
+  width: 900px;
+
 }
