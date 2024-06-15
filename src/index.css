@@ -144,5 +144,29 @@ a{
   height:200px;
   border:2px solid yellow;
   border-radius: 10px;
-
+}
+/*contact*/
+.contact-icon{
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-icon .items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  margin: 10px;
+  height: 70px;
+  width: 70px;
+  border-radius: 100%;
+  border: 2px solid yellow;
+}
+.contact-icon .items:hover{
+  background-color: var(--bgcol);
+  box-shadow: var(--box-shadow);
+}
+.contact-icon .items .icons{
+  font-size: 2rem;
 }
