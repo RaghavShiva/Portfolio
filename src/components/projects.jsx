@@ -9,7 +9,9 @@ const projects = () => {
           {Project.map((data) => (
             <>
               <div key={data.id} className='my-4 col-md-4 col-lg-3 col-sm-6 mx-3'>
-                <div className="card bg-dark text-light">
+                <div className="card bg-dark text-light"
+                data-aos="flip-right"
+                data-aos-duration = "1000">
                 <div className="img p-3">
                   <img src={data.imageSrc} className="card-img-top" alt="..." /></div>
                 <div className="card-body text-center">

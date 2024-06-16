@@ -22,14 +22,16 @@ const Home = () => {
   return (
     <>
     <div className="container home">
-    <div className="left">
+    <div className="left" data-aos="fade-up-right"
+   data-aos-duration = "1000">
       <h1 ref={typedref}>
        
       </h1>
       <a href={resume} download="resume_shiva.pdf" className="btn btn-outline-warning my-3">Download Resume</a>
     </div>
     <div className="right">
-      <div className="img">
+      <div className="img" data-aos="fade-up-left"
+   data-aos-duration = "1000">
         <img src={`/assets/${img.imgSrc}`} alt="profile_pic" />
       </div>
     </div>
