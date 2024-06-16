@@ -12,7 +12,7 @@ const skills = () => {
         data-aos="flip-left"
         data-aos-duration = "1000">
           <img src={`/Assets/${data.imageSrc}`} alt="" />
-          <h3>{data.title}</h3>
+          <h2>{data.title}</h2>
         </div>
       </>
     ))}

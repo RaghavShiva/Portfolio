@@ -92,13 +92,16 @@ a{
   justify-content: space-between;
   align-items: center;
   background-color: var(--bgcol);
-  margin: 1.25rem;
+  margin: 1vh;
   margin-left: 13vw;
   padding: 1.25rem;
   width: 50vw;
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+}
+.exp-items img{
+  height: 10vw;
 }
 .exp{
   width:80vw;
@@ -108,9 +111,20 @@ a{
   align-items: flex-start;
 }
 h1{
- font-size: 3vw;
+ font-size: 2.8vw;
 }
-
+h2{
+  font-size: 2.1vw;
+}
+h3{
+  font-size: 1.8vw;
+}
+h4{
+  font-size: 1.5vw;
+}
+h5{
+  font-size: 1.3vw;
+}
 /*skills*/
 .skills{
   margin-top: 5vh;
@@ -172,6 +186,10 @@ h1{
 }
 .projects .row .card-body a{
   margin: .5vw;
+  font-size: 1.5vw;
+}
+.projects .row .card-body p{
+  font-size: 1.5vw;
 }
 /*contact*/
 .contact{

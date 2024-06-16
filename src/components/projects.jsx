@@ -15,7 +15,7 @@ const projects = () => {
                 <div className="img p-3">
                   <img src={data.imageSrc} className="card-img-top" alt="..." /></div>
                 <div className="card-body text-center">
-                  <h5 className="card-title">{data.title}</h5>
+                  <h3 className="card-title">{data.title}</h3>
                   <p className="card-text">{data.description}</p>
                   <a href={data.demo} className="btn btn-primary mx-3">
                     DEMO
