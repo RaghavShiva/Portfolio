@@ -1,40 +1,31 @@
 [
     {
       "id": 1,
-      "role": "Senior Software Development Engineer SDE - II",
-      "organisation": "Google",
-      "startDate": "Sept, 2023",
+      "role": "Executive - Competitive Programming Team",
+      "organisation": "CODAME",
+      "startDate": "Nov, 2023",
       "endDate": "Present",
-      "location": "CA,United State",
+      "location": "IIIT Bhopal,India",
       "experiences": [
-        "Worked on Google Gmail",
-        "Worked with the Google Bard Team"
-      ]
+        "Mentored over 200+ juniors and hosted contests",
+        "Worked with the CP Team to improve coding culture"
+      ],
+      "imageSrc": "exp/codame_logo.jpeg"
     
     },
     {
       "id": 2,
-      "role": "Software Development Engineer SDE - I",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2022",
-      "endDate": "Aug, 2023",
-      "location": "London, UK",
+      "role": "Teaching Assistant",
+      "organisation": "IIIT Bhopal",
+      "startDate": "July, 2023",
+      "endDate": "Dec, 2023",
+      "location": "IIIT Bhopal,India",
       "experiences": [
-        "Worked on Windows 10 terminal",
-        "Worked on Window 11 Upcoming features"
-      ]
-    },
-    {
-      "id": 3,
-      "role": "Software Development Engineer - Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2021",
-      "endDate": "Jun, 2022",
-      "location": "Bengluru, India",
-      "experiences": [
-        "Worked on Nextflix payment system",
-        "Helped to create UI for video player"
+        "Facilitated academic success over 100 students",
+        "Engaged in both coursework and hands-on projects"
       ],
-      "imageSrc": "exp/codame_logo.jpeg"
+      "imageSrc": "exp/iiit_logo.png"
     }
+  
+    
   ]
