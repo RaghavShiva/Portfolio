@@ -8,8 +8,16 @@
       "imageSrc": "skills/css.png"
     },
     {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
       "title": "JavaScript",
       "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
     },
     {
       "title": "React",
@@ -20,7 +28,15 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "C++",
+      "imageSrc": "skills/cpp.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
     }
   ]
