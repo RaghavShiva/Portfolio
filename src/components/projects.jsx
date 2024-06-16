@@ -3,7 +3,7 @@ import Project from './data/projects.json'
 const projects = () => {
   return (
     <>
-      <div className="container projects my-3">
+      <div className="container projects my-3" id="projects">
         <h1>PROJECTS</h1>
         <div className="row d-flex justify-content-center align-items-center">
           {Project.map((data) => (

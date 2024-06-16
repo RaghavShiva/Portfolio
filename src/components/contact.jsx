@@ -8,7 +8,7 @@ import { CgMail } from "react-icons/cg";
 const contact = () => {
   return (
     <>
-    <div className="container contact">
+    <div className="container contact" id="contact">
       <h1>CONTACT ME</h1>
       <div className="contact-icon"
       data-aos="zoom-in-up"
