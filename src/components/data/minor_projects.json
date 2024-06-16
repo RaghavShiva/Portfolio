@@ -30,21 +30,5 @@
       "description": "This is a react app which gives live location of the user like a GPS tracker",
       "demo": "https://gps-prac.netlify.app/",
       "source": "https://github.com/RaghavShiva/gps_tracker"
-    },
-    {
-      "key": 5,
-     "title": "Candy Crush Saga",
-      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-      "description": "A fun and addictive puzzle game, built using JavaScript",
-      "demo": "https://shiva-crush-candy.netlify.app/",
-      "source": "https://github.com/RaghavShiva/Candy_Crush_Saga"
-      },
-      {
-        "key": 6,
-       "title": "Chess Pro",
-        "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-        "description": "This is a project on a game of chess",
-        "demo": "https://chess-pro-sr.netlify.app/",
-        "source": "https://github.com/RaghavShiva/chess_pro"
-        }
+    }
   ]
