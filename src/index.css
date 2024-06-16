@@ -177,6 +177,7 @@ h5{
   width: 18vw;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+  height: 70vh;
 }
 .projects .row .img img{
   width: 16vw;
@@ -189,7 +190,8 @@ h5{
   font-size: 1.5vw;
 }
 .projects .row .card-body p{
-  font-size: 1.5vw;
+  font-size: 1.2vw;
+  height: 15vh;
 }
 /*contact*/
 .contact{

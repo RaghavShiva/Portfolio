@@ -17,10 +17,10 @@ const projects = () => {
                 <div className="card-body text-center">
                   <h3 className="card-title">{data.title}</h3>
                   <p className="card-text">{data.description}</p>
-                  <a href={data.demo} className="btn btn-primary mx-3">
+                  <a href={data.demo} target="_blank" className="btn btn-primary mx-3">
                     DEMO
                   </a>
-                  <a href={data.source} className="btn btn-warning">
+                  <a href={data.source} target="_blank" className="btn btn-warning">
                     CODE
                   </a>
                 </div>
