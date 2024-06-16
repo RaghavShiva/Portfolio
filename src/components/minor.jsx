@@ -9,7 +9,7 @@ const CarouselComponent = ({Mini}) => {
           <div
             key={data.key}
             className={`carousel-item ${index === 0 ? 'active' : ''}`}
-          data-bs-interval="3000"
+            data-bs-interval="2000"
           >
             <img src={data.imageSrc} className="d-block w-100" alt={data.title} />
             <div class="carousel-caption d-none d-md-block">
