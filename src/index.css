@@ -208,8 +208,8 @@ h5{
   align-items: center;
   background-color: black;
   margin: 10px;
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
   border-radius: 100%;
   border: 2px solid yellow;
 }
@@ -218,5 +218,5 @@ h5{
   box-shadow: var(--box-shadow);
 }
 .contact-icon .items .icons{
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
