@@ -8,8 +8,8 @@ const Home = () => {
   useEffect(()=>{
     const options={
       strings:["Welcome to my profile","I am Shiva Raghav"
-        ,"I am a web developer"
-      ],
+        ,"I am a web developer"],
+        showCursor:false,
       typeSpeed:50,
       backSpeed:50,
       loop:true
