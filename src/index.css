@@ -30,7 +30,7 @@ a{
 /*home*/
 .home{
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
   align-items: center;
   height: 80vh;
 }
@@ -50,8 +50,8 @@ a{
   align-items: center;
 }
 .home .right .img img{
-  height: 20vw;
-  width: 20vw;
+  height: 25vw;
+  width: 25vw;
   border-radius: 100%;
   border: .3rem solid yellow;
   animation-name: home_ani;
