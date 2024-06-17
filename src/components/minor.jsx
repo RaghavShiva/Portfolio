@@ -5,7 +5,7 @@ const CarouselComponent = ({Mini}) => {
   return (
     <>
     <div className='container carousel'>
-      <h1>MINOR - PROJECTS</h1>
+      <h2>SOME MINOR PROJECTS</h2>
     
     <div id="carouselAuto" className="carousel slide carousel-fade" data-bs-ride="carousel">
       <div className="carousel-inner">
@@ -13,7 +13,7 @@ const CarouselComponent = ({Mini}) => {
           <div
             key={data.key}
             className={`carousel-item ${index === 0 ? 'active' : ''}`}
-            data-bs-interval="2000"
+            data-bs-interval="1500"
           >
             <a href={data.demo} target="_blank">
             <img src={`/Assets/${data.imageSrc}`} alt={data.title} /></a>
