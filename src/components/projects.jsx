@@ -14,7 +14,7 @@ const projects = () => {
                   data-aos="flip-right"
                   data-aos-duration="1000">
                   <div className="img p-3">
-                    <img src={data.imageSrc} className="card-img-top" alt="..." /></div>
+                    <img src={`/Assets/${data.imageSrc}`} className="card-img-top" alt="..." /></div>
                   <div className="card-body text-center">
                     <h3 className="card-title">{data.title}</h3>
                     <p className="card-text">{data.description}</p>
