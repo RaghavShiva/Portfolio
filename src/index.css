@@ -1,6 +1,8 @@
 :root{
   --box-shadow:.3rem .3rem .7rem .7rem rgba(101,175,10,.5);
   --bgcol:rgb(40,47,97);
+  --main-colo-red: #f8567ce9;
+  --title-colo: #f8bf56;
 }
 
 body{
@@ -127,7 +129,7 @@ h5{
 }
 /*skills*/
 .skills{
-  margin-top: 5vh;
+  margin-top: 10vh;
   width: 80vw;
   display: flex;
   flex-direction: column;
@@ -162,7 +164,7 @@ h5{
 
 /* projects*/
 .projects{
-  margin-top: 7vh;
+  margin-top: 10vh;
   width: 80vw;
   
 }
@@ -193,9 +195,49 @@ h5{
   font-size: 1.2vw;
   height: 15vh;
 }
+/*minor projects */
+
+p{
+  font-size: 1.2vw;
+}
+.container .carousel{
+  margin-top: 10vh;
+}
+
+.container .carousel .carousel-control-prev-icon{
+  margin-left: 9vw;
+ 
+}
+.container .carousel .carousel-control-next-icon{
+  margin-right: 9vw;
+  }
+.carousel .carousel-inner .carousel-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.carousel .carousel-inner .carousel-item img{
+  max-height: 50vh;
+  width: 50vw;
+  border-radius: 3%;
+}
+
+.carousel .carousel-inner .carousel-item img:hover{
+  content: "";
+  display: block;
+  opacity: 0.4;
+  transition: .5s;
+  z-index: 2;
+  cursor: pointer;
+  box-shadow: var(--box-shadow);
+}
+
+
+
 /*contact*/
 .contact{
-  margin-top: 5vh;
+  margin-top: 10vh;
   width: 80vw;
 }
 .contact-icon{

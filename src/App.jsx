@@ -7,7 +7,7 @@ import Projects from './components/projects'
 import Contact from './components/contact'
 import AOS from 'aos'
 import "aos/dist/aos.css"
-
+import Minor from './components/minor'
 const App = () => {
   useEffect(()=>{
     AOS.init()
@@ -21,6 +21,7 @@ const App = () => {
     <Experience />
     <Skills />
     <Projects />
+    <Minor />
     <Contact />
     </div>
     

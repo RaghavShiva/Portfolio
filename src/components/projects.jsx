@@ -1,6 +1,6 @@
 import React from 'react'
 import Project from './data/projects.json'
-import Minor from './minor'
+
 const projects = () => {
   return (
     <>
@@ -30,7 +30,6 @@ const projects = () => {
             </>
           ))}
         </div>
-        <Minor />
       </div >
     </>
   )

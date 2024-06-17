@@ -1,34 +1,50 @@
 [
     {
       "key": 1,
-      "title": "DevZen",
-      "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-      "description": "This is a Code editor in which you can write your code in HTML, CSS, JS",
-      "demo": "https://devzen-sr.netlify.app/",
-      "source": "https://github.com/RaghavShiva/DevZen"
+      "title": "Digital Analog",
+      "imageSrc": "minor/diglog.png",
+      "description": "It is a frontend project which displays analog and as well as digital clocks, with amazing design and animations",
+      "demo": "https://raghavshiva.github.io/digital_analog/",
+      "source": "https://github.com/RaghavShiva/digital_analog"
     },
     {
       "key": 2,
-      "title": "MERN Blogging",
-      "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-      "description": "This is a project made with complete React js",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Progress Bar",
+      "imageSrc": "minor/animatedbar.png",
+      "description": "This is a simple small project made out of fun and interest",
+      "demo": "https://raghavshiva.github.io/progress_bar/",
+      "source": "https://github.com/RaghavShiva/progress_bar"
     },
     {
       "key": 3,
-      "title": "Textify",
-      "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-      "description": "This is a TextApp to analyse and perform certain operations on text",
-      "demo": "https://textify-app.netlify.app/",
-      "source": "https://github.com/RaghavShiva/Textify"
+      "title": "Blog Voyage",
+      "imageSrc": "minor/blog.png",
+      "description": "This is a blog website which is fully responsive",
+      "demo": "https://shiva-raghavblog.netlify.app/",
+      "source": "https://github.com/RaghavShiva/BlogVoyage"
     },
     {
       "key": 4,
-      "title": "React GPS Tracker",
-      "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-      "description": "This is a react app which gives live location of the user like a GPS tracker",
-      "demo": "https://gps-prac.netlify.app/",
-      "source": "https://github.com/RaghavShiva/gps_tracker"
+      "title": "Rock Paper Scissors",
+      "imageSrc": "minor/rps.png",
+      "description": "Mini project on rock paper scissors game",
+      "demo": "https://rps-game-sraghav.netlify.app/",
+      "source": "https://github.com/RaghavShiva/rockpaperscissors"
+    },
+    {
+      "key": 5,
+      "title": "Tic Tac Toe",
+      "imageSrc": "minor/tictactoe.png",
+      "description": "Tic Tac Toe game , using effective HTML,CSS and JavaScript",
+      "demo": "https://raghavshiva.github.io/tictactoe/",
+      "source": "https://github.com/RaghavShiva/tictactoe"
+    },
+    {
+      "key": 6,
+      "title": "Amazon Clone",
+      "imageSrc": "minor/amazon.png",
+      "description": "It is basically a clone website of amazon , it is not fully same but it looks very similar in layout manner",
+      "demo": "https://raghavshiva.github.io/amazon_clone/",
+      "source": "https://github.com/RaghavShiva/amazon_clone"
     }
   ]

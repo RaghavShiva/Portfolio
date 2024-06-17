@@ -3,6 +3,10 @@ import Mini from './data/minor_projects.json';
 
 const CarouselComponent = ({Mini}) => {
   return (
+    <>
+    <div className='container carousel'>
+      <h1>MINOR - PROJECTS</h1>
+    
     <div id="carouselAuto" className="carousel slide carousel-fade" data-bs-ride="carousel">
       <div className="carousel-inner">
          {Mini.map((data, index) => (
@@ -11,11 +15,11 @@ const CarouselComponent = ({Mini}) => {
             className={`carousel-item ${index === 0 ? 'active' : ''}`}
             data-bs-interval="2000"
           >
-            <img src={data.imageSrc} className="d-block w-100" alt={data.title} />
-            <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div>
+            <a href={data.demo} target="_blank">
+            <img src={`/Assets/${data.imageSrc}`} alt={data.title} /></a>
+      <a href={data.source} target="_blank">
+      <h5 className='my-2'>{data.title}</h5></a>
+      <p>{data.description}</p>
           </div>
          ))}
       </div>
@@ -25,8 +29,7 @@ const CarouselComponent = ({Mini}) => {
         data-bs-target="#carouselAuto"
         data-bs-slide="prev"
       >
-        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span className="visually-hidden">Previous</span>
+        <div className="carousel-control-prev-icon"></div>
       </button>
       <button
         className="carousel-control-next"
@@ -34,10 +37,11 @@ const CarouselComponent = ({Mini}) => {
         data-bs-target="#carouselAuto"
         data-bs-slide="next"
       >
-        <span className="carousel-control-next-icon" aria-hidden="true"></span>
-        <span className="visually-hidden">Next</span>
+        <div className="carousel-control-next-icon"></div>
       </button>
     </div>
+    </div>
+    </>
   );
 };
 
