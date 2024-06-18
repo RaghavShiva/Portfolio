@@ -9,12 +9,12 @@
     },
     {
       "key": 2,
-      "title": "MERN Blogging",
-      "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-      "description": "This is a project made with complete React js",
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
+     "title": "Candy Crush Saga",
+      "imageSrc": "projects/candycrush.png",
+      "description": "A fun and addictive puzzle game, built using JavaScript",
+      "demo": "https://shiva-crush-candy.netlify.app/",
+      "source": "https://github.com/RaghavShiva/Candy_Crush_Saga"
+      },
     {
       "key": 3,
       "title": "Textify",
@@ -25,26 +25,27 @@
     },
     {
       "key": 4,
+     "title": "Chess Pro",
+      "imageSrc": "projects/chess.png",
+      "description": "This is a project on a game of chess",
+      "demo": "https://chess-pro-sr.netlify.app/",
+      "source": "https://github.com/RaghavShiva/chess_pro"
+      },
+      {
+        "key": 5,
+          "title": "Rock Paper Scissors",
+          "imageSrc": "projects/rps.png",
+          "description": "JavaScipt project on rock paper scissors game",
+          "demo": "https://rps-game-sraghav.netlify.app/",
+          "source": "https://github.com/RaghavShiva/rockpaperscissors"
+        },
+    {
+      "key": 6,
       "title": "React GPS Tracker",
       "imageSrc": "projects/gps.png",
       "description": "This is a react app which gives live location of the user like a GPS tracker",
       "demo": "https://gps-prac.netlify.app/",
       "source": "https://github.com/RaghavShiva/gps_tracker"
-    },
-    {
-      "key": 5,
-     "title": "Candy Crush Saga",
-      "imageSrc": "projects/candycrush.png",
-      "description": "A fun and addictive puzzle game, built using JavaScript",
-      "demo": "https://shiva-crush-candy.netlify.app/",
-      "source": "https://github.com/RaghavShiva/Candy_Crush_Saga"
-      },
-      {
-        "key": 6,
-       "title": "Chess Pro",
-        "imageSrc": "projects/chess.png",
-        "description": "This is a project on a game of chess",
-        "demo": "https://chess-pro-sr.netlify.app/",
-        "source": "https://github.com/RaghavShiva/chess_pro"
-        }
+    }
+      
   ]
