@@ -2,7 +2,7 @@
     {
       "key": 1,
       "title": "Job-Portal",
-      "imageSrc": "https://private-user-images.githubusercontent.com/139120737/374484182-be3da2da-9c46-43e4-8254-48329478d71d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwMTkxMzcsIm5iZiI6MTczMDAxODgzNywicGF0aCI6Ii8xMzkxMjA3MzcvMzc0NDg0MTgyLWJlM2RhMmRhLTljNDYtNDNlNC04MjU0LTQ4MzI5NDc4ZDcxZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyN1QwODQ3MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTkwYjY1NmFkODhkNTI1NWEyZWJmOGQ2NjJiM2ZmZmMxOGMxZjNhOTFiN2RhNDQ3ZmUyMTYzY2ZlZjQ4MWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WUTHiOPCYGyAptaAMIa1k1n0MRto0dhR22_44HMJuhg",
+      "imageSrc": "projects/portalimg.png",
       "description": "This is a Job portal in which you can post your own job and anyone can apply to it",
       "demo": "https://job-portal-sr.netlify.app/",
       "source": "https://github.com/RaghavShiva/job-portal"
