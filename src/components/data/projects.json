@@ -41,11 +41,11 @@
         },
     {
       "key": 6,
-      "title": "React GPS Tracker",
-      "imageSrc": "projects/gps.png",
-      "description": "This is a react app which gives live location of the user like a GPS tracker",
-      "demo": "https://gps-prac.netlify.app/",
-      "source": "https://github.com/RaghavShiva/gps_tracker"
+      "title": "DevZen",
+      "imageSrc": "projects/devzen.png",
+      "description": "This is a Code editor in which you can write your code in HTML, CSS, JS",
+      "demo": "https://devzen-sr.netlify.app/",
+      "source": "https://github.com/RaghavShiva/DevZen"
     }
       
   ]
