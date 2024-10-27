@@ -7,7 +7,7 @@ const Home = () => {
   const typedref = useRef(null)
   useEffect(()=>{
     const options={
-      strings:["Welcome to my Profile","I am Shiva Raghav"
+      strings:["Welcome to my Profile","I am Shiva"
         ,"An enthusiastic Web Developer","A Competitive Programmer"],
         showCursor:false,
       typeSpeed:50,
