@@ -33,11 +33,11 @@
       },
       {
         "key": 5,
-          "title": "Rock Paper Scissors",
-          "imageSrc": "projects/rps.png",
-          "description": "JavaScipt project on rock paper scissors game",
-          "demo": "https://rps-game-sraghav.netlify.app/",
-          "source": "https://github.com/RaghavShiva/rockpaperscissors"
+          "title": "LiveLingo",
+          "imageSrc": "projects/chatimg.png",
+          "description": "Realtime Chat Application",
+          "demo": "https://live-front-jet.vercel.app/",
+          "source": "https://github.com/RaghavShiva/LiveLingo"
         },
     {
       "key": 6,
