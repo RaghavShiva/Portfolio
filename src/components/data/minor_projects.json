@@ -25,11 +25,11 @@
     },
     {
       "key": 4,
-      "title": "Mern Basic Practice",
-      "imageSrc": "minor/mern.png",
-      "description": "Mini project on movie data stored in mongodb database using express js",
-      "demo": "#",
-      "source": "https://github.com/RaghavShiva/basic_mern"
+      "title": "Rock Paper Scissors",
+          "imageSrc": "projects/rps.png",
+          "description": "JavaScipt project on rock paper scissors game",
+          "demo": "https://rps-game-sraghav.netlify.app/",
+          "source": "https://github.com/RaghavShiva/rockpaperscissors"
     },
     {
       "key": 5,
